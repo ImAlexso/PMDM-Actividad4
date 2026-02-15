@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625868820203",
+    "project_id": "cocinillasapp-6c5bb",
+    "storage_bucket": "cocinillasapp-6c5bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625868820203:android:19a82e960673b609aaf8ae",
+        "android_client_info": {
+          "package_name": "com.example.actividad4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSYCvWsRcuLh2gtzub8wqJpKb541vXvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

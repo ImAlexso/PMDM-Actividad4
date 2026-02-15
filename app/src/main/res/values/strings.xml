@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Actividad4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvCocinillasApp">Cocinillas App</string>
+    <string name="tvLogin">Login</string>
+    <string name="EtEmail">Email</string>
+    <string name="EtPassword">Contraseña</string>
+    <string name="btnLogin">Acceder</string>
+    <string name="btnRegister">Crear cuenta de usuario</string>
+    <string name="tvRegister">Registro de Usuario</string>
+    <string name="EtSecondPassword">Confirmar contraseña</string>
+    <string name="btnRegisterUser">Registro de Usuario</string>
+    <string name="cd_meal_image">Imagen del plato</string>
+    <!-- Meals list UI -->
+    <string name="label_category">Categoría</string>
+    <string name="tvMealDetail">MealName</string>
+
+    <!-- Spinner categories (textos fijos del desplegable) -->
+    <string-array name="meal_categories">
+        <item>Marisco</item>
+        <item>Pollo</item>
+        <item>Pasta</item>
+        <item>Vegetariana</item>
+        <item>Variadas</item>
+        <item>Favoritas</item>
+    </string-array>
+    <string name="cd_favorite_button">Marcar como favorito</string>
+    <string name="meal_detail_title_placeholder">Nombre de la receta</string>
+    <string name="meal_detail_instructions_placeholder">Instrucciones...</string>
+    <string name="title_favorites">Favoritos</string>
+
+</resources>
